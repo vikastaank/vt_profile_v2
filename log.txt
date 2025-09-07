@@ -1,0 +1,7 @@
+File /home/vikastaank/Documents/github-profile/v2/vt_profile_v2/src/vite-env.d.ts
+
+
+Warnings :
+1 : the definition is not identified
+
+Your trace has 0 errors and 1 warnings.
