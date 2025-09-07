@@ -10,7 +10,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "deploy": "npm run build && gh-pages -d ."
+    "deploy": "npm run build && gh-pages -d .",
+    "refresh": "npx gh-pages -d . -b gh-pages"
   },
   "dependencies": {
     "lucide-react": "^0.344.0",
